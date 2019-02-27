@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(117, 114, 114);
+    font-family: "Helvetica";
+}
+    
+h2 {
+        font-size: 40px;
+}
+
+p {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: upper-roman;
+}
+
+img {
+    padding: 100px;
+}
